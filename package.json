@@ -40,5 +40,8 @@
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "prettier": "@justa/prettier-rules"
+  "prettier": "@justa/prettier-rules",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }
